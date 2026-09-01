@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Ebrahim</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;AI+Systems+Builder;Exploring+LLMs+%26+RAG;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;AI+Systems+Builder;LLM+%26+RAG+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Youssef Ebrahim**, an **Artificial Intelligence & Data Science student at Zagazig University** passionate about building practical AI systems and turning machine learning ideas into reliable software.
+I'm **Youssef Ebrahim**, an **Artificial Intelligence & Data Science student at Zagazig University**, passionate about building practical AI systems and turning machine learning ideas into reliable software.
 
 I'm particularly interested in:
 
@@ -106,11 +106,18 @@ I enjoy working across the entire AI lifecycle — from **data and model develop
 
 ---
 
-## 📈 GitHub
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Ebrahim0&show_icons=true&hide_border=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ebrahim0&layout=compact&hide_border=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Ebrahim0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Youssef-Ebrahim0/Youssef-Ebrahim0/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -119,13 +126,13 @@ I enjoy working across the entire AI lifecycle — from **data and model develop
 
 <p align="center">
   <a href="https://github.com/Youssef-Ebrahim0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/youssef-ebrahim01/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" alt="Footer" />
 </p>
