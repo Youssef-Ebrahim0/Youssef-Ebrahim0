@@ -121,7 +121,7 @@ I enjoy working across the entire AI lifecycle — from **data and model develop
   <a href="https://github.com/Youssef-Ebrahim0">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/youssef-ebrahim01">
+  <a href="https://www.linkedin.com/in/youssef-ebrahim01/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
