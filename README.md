@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Ebrahim</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;AI+Systems+Builder;LLM+%26+RAG+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;AI+Systems+Builder;LLM+%26+RAG+Builder;Building+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,20 +29,14 @@ I enjoy working across the entire AI lifecycle — from **data and model develop
 
 ---
 
-## 🚀 Currently Exploring
+## 🧠 What I Build
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-Exploring-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Engineering-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-Building-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Engineering-Learning-green?style=for-the-badge" />
-</p>
-
-* 🧠 Designing **RAG & LLM applications**
-* 🔎 Improving **retrieval and reranking pipelines**
-* 🤖 Building and deploying **ML / Computer Vision models**
-* ⚡ Developing **AI services with FastAPI**
-* 📚 Learning more about **production AI systems**
+* 🤖 **Machine Learning & Deep Learning Systems**
+* 🧠 **LLM & RAG Applications**
+* 🔎 **Hybrid Retrieval & Reranking Pipelines**
+* 👁️ **Computer Vision Applications**
+* ⚡ **AI APIs & Backend Services**
+* 🚀 **Production-Oriented AI Systems**
 
 ---
 
@@ -130,6 +124,9 @@ I enjoy working across the entire AI lifecycle — from **data and model develop
   </a>
   <a href="https://www.linkedin.com/in/youssef-ebrahim01/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:youssefebrahim299@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
