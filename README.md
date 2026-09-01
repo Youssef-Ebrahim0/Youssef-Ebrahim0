@@ -1,227 +1,63 @@
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+
+<!-- <div align="center" width="50">
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+</div> -->
+
+Welcome to my GitHub profile! 👋<br>
+
+I'm **Youssef Ebrahim**, a Computer Science student at **Zagazig University**, passionate about **AI, Machine Learning, and software development**.  
+I enjoy building projects, experimenting with ML models, and contributing to open-source.
+
+Feel free to explore my repositories, clone projects, or raise issues if you have suggestions.
+
 <div align="center">
 
-<!-- PORTRAIT - generated from me.jpeg -->
-
-<img src="assets/portrait.svg" width="300" alt="Youssef Ebrahim, rendered as a dot matrix">
+<h3 align="left">💻 Languages</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
+</div>
 
 <br>
 
-<!-- NAME / TAGLINE -->
-
-<a href="https://github.com/Youssef-Ebrahim0">
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=Youssef+Ebrahim;AI+%26+Data+Science;Machine+Learning+Engineer;LLM+%26+RAG+Developer;Computer+Vision" alt="typing banner">
-
-</a>
+<h3 align="left">🛠 Frameworks & Libraries</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+</div>
 
 <br>
 
-<!-- SOCIALS -->
-
-<a href="https://github.com/Youssef-Ebrahim0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
-<a href="www.linkedin.com/in/youssef-ebrahim01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<a href="mailto:youssefebrahim299@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-<img src="https://komarev.com/ghpvc/?username=Youssef-Ebrahim0&style=flat&color=39d353&label=profile+views" alt="profile views">
-
+<h3 align="left">🗄 Databases</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
 </div>
-
----
-
-## `~/` whoami
-
-```console
-$ cat about.txt
-```
-
-Hi, I'm **Youssef Ebrahim**. I'm an **AI & Data Science student** focused on building practical machine learning systems, LLM applications, and computer vision solutions.
-
-* 🎓 B.Sc. in Computers & Information Technology — **AI & Data Science**, Zagazig University
-* 🤖 Focused on **Machine Learning, Deep Learning, NLP, LLMs, RAG, and Computer Vision**
-* 🚀 Building AI applications using **Python, TensorFlow, scikit-learn, LangChain, FastAPI, and Docker**
-* 💼 Machine Learning Engineer @ **DEPI**
-* 📚 Currently expanding my knowledge in **LLM workflows, Retrieval-Augmented Generation, and production AI systems**
-* 💡 Fun fact: I enjoy turning machine learning concepts into working applications.
 
 <br>
 
-<div align="center">
-
-## `~/` toolbox
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,tensorflow,docker,fastapi,flask,postgres,mysql,git,github,vscode,html,css&perline=11" alt="tech stack">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=opencv&perline=11" alt="computer vision">
-
+<h3 align="left">🛠 Tools & Platforms</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
----
 
-<div align="center">
-
-## `~/` skill radar
-
-<table>
-
-<tr>
-
-<td width="50%" align="center" valign="middle">
-
-<!-- Self-rated radar - edit assets/skills.json, the workflow redraws it -->
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-
-  <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
-
-</picture>
-
-</td>
-
-<td width="50%" align="center" valign="middle">
-
-<!-- Live radar built from real language byte counts across your repos -->
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-
-  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
-
-</picture>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` contribution calendar
-
-<!-- 3D isometric calendar, regenerated every 6h by .github/workflows/metrics.yml -->
-
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
-
-<br><br>
-
-<!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef-Ebrahim0/Youssef-Ebrahim0/output/snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef-Ebrahim0/Youssef-Ebrahim0/output/snake.svg">
-
-  <img src="https://raw.githubusercontent.com/Youssef-Ebrahim0/Youssef-Ebrahim0/output/snake.svg" width="100%" alt="snake eating the contribution graph">
-
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` the numbers
-
-<!-- Generated by scripts/cards.py -->
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
-
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
-
-</picture>
-
-<br>
-
-<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
-
-<br><br>
-
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` selected work
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<a href="https://github.com/Youssef-Ebrahim0/Rafiq-Chatbot">
-<img src="assets/card-Rafiq-Chatbot-dark.svg" width="420" alt="Rafiq-Chatbot">
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<a href="https://github.com/DEPI-Poject-Team-1/gradprojct">
-<img src="assets/card-gradprojct-dark.svg" width="420" alt="gradprojct">
-</a>
-
-</td>
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<a href="https://github.com/Youssef-Ebrahim0/Fruit-Detection-YOLO">
-<img src="assets/card-Fruit-Detection-YOLO-dark.svg" width="420" alt="Fruit Detection YOLO">
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<a href="https://github.com/Youssef-Ebrahim0/CharityML-Donor-Prediction-App">
-<img src="assets/card-CharityML-Donor-Prediction-App-dark.svg" width="420" alt="CharityML Donor Prediction App">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-| Project | Stack |
-|---|---|
-| **[Rafiq-Chatbot](https://github.com/Youssef-Ebrahim0/Rafiq-Chatbot)** | `Python` `LangChain` `RAG` `LLM` |
-| **[gradprojct](https://github.com/DEPI-Poject-Team-1/gradprojct)** | `Python` `TensorFlow` `Computer Vision` |
-| **[Fruit-Detection-YOLO](https://github.com/Youssef-Ebrahim0/Fruit-Detection-YOLO)** | `Python` `YOLO` `Computer Vision` |
-| **[CharityML-Donor-Prediction-App](https://github.com/Youssef-Ebrahim0/CharityML-Donor-Prediction-App)** | `Python` `Scikit-learn` `Machine Learning` |
-
-</div>
-
----
-
-<div align="center">
-
-<sub>`01100001 01101001 00100000 01100101 01101110 01100111 01101001 01101110 01100101 01100101 01110010 01101001 01101110 01100111`</sub>
-
-</div>
+⭐ From [Youssef Ebrahim](https://github.com/Youssef-Ebrahim0)
