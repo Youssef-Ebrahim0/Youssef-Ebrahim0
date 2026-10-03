@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Youssef-Ebrahim0">
-    <img src="https://komarev.com/ghpvc/?username=Youssef-Ebrahim0&label=Profile%20Views&style=flat" alt="Profile Views" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYoussef-Ebrahim0&label=Profile%20Views&style=flat" alt="Profile Views" />
   </a>
 </p>
 
